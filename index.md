@@ -2,20 +2,20 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+![My Name](/_includes/01-name.md)
 
 <br>
 
-{% include 02-image.md %}
+![Some Image](/_includes/02-image.md)
 
 <br>
 
-{% include 03-links.md %}
+![Some Links](/_includes/03-links.md)
 
 <br>
 
-{% include 04-lists.md %}
+![Some Lists](/_includes/04-lists.md)
 
 <br>
 
-{% include 05-emphasis.md %}
+![Some Emphasis](/_includes/05-emphasis.md)
